@@ -1,0 +1,25 @@
+MORAIS PARKING RELATORIO
+Estacionamento: UNIESP
+Data: 2020-06-03
+
+OCUPACAO MAXIMA:
+Area: Carros; ocupacao: 5 / 30 (16.67%)
+Area: Motos; ocupacao: 5 / 20 (25.00%)
+Area: Ônibus; ocupacao: 6 / 20 (30.00%)
+Area: Deficientes; ocupacao: 0 / 5 (0.00%)
+Area: VIP; ocupacao: 3 / 5 (60.00%)
+Area: Escolar; ocupacao: 0 / 5 (0.00%)
+Area: Alunos; ocupacao: 0 / 5 (0.00%)
+
+EVENTO DO DIA:
+Nome do evento: Hackathon
+Data inicial: 2020-06-02
+Data Final: 2020-06-16
+
+OCORRENCIAS:
+Categoria: Batida
+Data: 2020-06-03 10:05:49.789008
+Veiculos: 
+	Al1n3
+	XXX0000
+
