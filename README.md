@@ -1,2 +1,8 @@
 # Morais Parking Python
-A parking management system for the final project of UNIESP Data structures course 
+## :rocket: Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+* Python
+* SQLite
+
+## :computer: Projeto
+Um sistema de gestão de estacionamento para o projeto final do curso de Estruturas de Dados - UNIESP
